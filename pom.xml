@@ -123,7 +123,7 @@
 		<repository>
 			<id>artifactory</id>
 			<name>Calc_Dev_Snapshot</name>
-			<url>http://localhost:8081/artifactory/Calc_Dev_Snapshot</url>
+			<url>http://localhost:8082/artifactory/Calc_Dev_Snapshot/</url>
 		</repository>
 	</distributionManagement>
 
